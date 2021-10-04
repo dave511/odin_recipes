@@ -1,0 +1,2 @@
+This current project is about to build an index html page wich will have links and images for recipes. After finish this work i will demotrate my knowledge into 
+html language and the way how i develop a website structure and give it secuence and space to the text,images and links.
